@@ -97,7 +97,7 @@ main {
 
 .meme--image {
   max-width: 90%;
-  max-height: auto;
+  max-height: 65vh;
   border-radius: 3px;
   margin: 0 auto;
 }
